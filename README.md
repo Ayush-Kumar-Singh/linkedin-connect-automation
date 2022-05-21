@@ -1,4 +1,4 @@
-# linkedin-connect-automation
+# Linkedin Connect Automation
 linkedin connect automation js script
 
 Step 1 - open linked in and go to /mynetwork.
